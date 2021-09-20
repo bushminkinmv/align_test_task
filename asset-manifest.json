@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/align_test_task/static/css/main.760a40e7.chunk.css",
+    "main.js": "/align_test_task/static/js/main.7ea11608.chunk.js",
+    "main.js.map": "/align_test_task/static/js/main.7ea11608.chunk.js.map",
+    "runtime-main.js": "/align_test_task/static/js/runtime-main.05b1853f.js",
+    "runtime-main.js.map": "/align_test_task/static/js/runtime-main.05b1853f.js.map",
+    "static/css/2.679831fc.chunk.css": "/align_test_task/static/css/2.679831fc.chunk.css",
+    "static/js/2.c23ccbd4.chunk.js": "/align_test_task/static/js/2.c23ccbd4.chunk.js",
+    "static/js/2.c23ccbd4.chunk.js.map": "/align_test_task/static/js/2.c23ccbd4.chunk.js.map",
+    "static/js/3.beb851d0.chunk.js": "/align_test_task/static/js/3.beb851d0.chunk.js",
+    "static/js/3.beb851d0.chunk.js.map": "/align_test_task/static/js/3.beb851d0.chunk.js.map",
+    "index.html": "/align_test_task/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/align_test_task/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.760a40e7.chunk.css.map": "/align_test_task/static/css/main.760a40e7.chunk.css.map",
+    "static/js/2.c23ccbd4.chunk.js.LICENSE.txt": "/align_test_task/static/js/2.c23ccbd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05b1853f.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.c23ccbd4.chunk.js",
+    "static/css/main.760a40e7.chunk.css",
+    "static/js/main.7ea11608.chunk.js"
+  ]
+}
